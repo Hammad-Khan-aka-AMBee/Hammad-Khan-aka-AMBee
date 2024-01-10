@@ -38,12 +38,11 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 
 # 📖 **About Me**
 
-Hey there! Welcome... This is HK, nice to see you here!
-I am some Bold, Decent Guy doing Mechatronics from PAF-KIET University. It has been my passion to work in the field of Automation, Space Research, Robotics, Energy Systems and Artificial Intelligence.
-I am looking for a great career start in Energy Systems and Renewable Energy Resources. I believe we owe this Mother Earth some contribution and to its people as well and my goal is to bring a good change in everyone's life.
-I already have some experience in Marketing, Sales, Software Development, Data Science, Deep Learning and Machine Learning, App and Web Based Bot Development as well in Computer Science (Networking and Routing, SQL Clustering, Linux and Windows, Cloud Systems, VM-Ware Virtualization). I am fluent in Python, JavaScript, C and C++, Assembly 8086, HTML and CSS. I also have some background knowledge in Economics, Banking and Finance, History, Ethics, Philosophy, Project Management, Risk Management, Money Markets and Supply Chain Management.
-I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my side language i.e Japanese. I was always just an average in Math but it didn't stop me from pursuing my passion in Engineering. One of my weakness is the lack of socializing but I am trying my best to overcome my introversion and turning my greatest skill into Managing my Time.
+Greetings! I extend a warm welcome to you. I am HK, a dedicated individual currently pursuing a degree in Mechatronics at PAF-KIET University. My academic focus aligns with my fervor for contributing to the fields of Automation, Space Research, Robotics, Energy Systems, and Artificial Intelligence. My career aspirations involve making a meaningful impact in the realm of Energy Systems and Renewable Energy Resources.
 
+Recognizing our responsibility towards Mother Earth and its inhabitants, I am driven by the goal of effecting positive change in people's lives. I bring a diverse skill set with experience spanning Marketing, Sales, Software Development, Data Science, Deep Learning, Machine Learning, as well as App and Web-Based Bot Development within the domain of Computer Science. My technical proficiency includes languages such as Python, JavaScript, C, C++, Assembly 8086, HTML, and CSS. Additionally, I possess knowledge in areas such as Economics, Banking and Finance, History, Ethics, Philosophy, Project Management, Risk Management, Money Markets, and Supply Chain Management.
+
+Proficient in both English and Urdu, I am currently expanding my linguistic capabilities by learning Japanese as a secondary language. Despite being average in mathematics, I have remained steadfast in pursuing my passion for engineering. While overcoming my inclination towards introversion, I am actively working on refining my social skills and have successfully transformed my adeptness in time management into a valuable asset.
 
 ![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=HTML5&logoColor=blue&label=HTML&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=CSS3&logoColor=blue&label=CSS&labelColor=white&color=blue)
