@@ -119,7 +119,7 @@ Proficient in both English and Urdu, I am currently expanding my linguistic capa
 - Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)
 -   ![Static Badge](https://img.shields.io/badge/Discord-the__hot__man__bee%20-lightblue)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Khan-aka-Ansar-Malik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Khan-aka-AMBee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 [![the-hot-man-bee's GitHub | Stats](https://stats.quine.sh/the-hot-man-bee/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=the-hot-man-bee)
@@ -131,7 +131,7 @@ And create a sustainable future
 
 
 
-<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Khan-aka-Ansar-Malik&show_icons=true)-->
+<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Khan-aka-AMBee&show_icons=true)-->
 
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee&theme=cobalt&icon=cake&time=true&response=true&border=true"/></a>
 
