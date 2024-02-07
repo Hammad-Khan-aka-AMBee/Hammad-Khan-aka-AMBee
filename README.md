@@ -27,7 +27,7 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 
    
                                                
-<div align="center"><img src="https://github.com/Hammad-Khan-aka-AMBee/Bee/blob/main/Intro.svg" style="width: 60%; height: 100%;" position="relative" alt="Click to see the source" ></div>
+<div align="center"><img src="https://github.com/Hammad-Khan-aka-AMBee/Bee/blob/main/.gitignore/Intro.svg" style="width: 60%; height: 100%;" position="relative" alt="Click to see the source" ></div>
 
 
 <!--![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)-->
