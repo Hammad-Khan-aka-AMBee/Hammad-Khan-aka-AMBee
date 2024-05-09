@@ -110,7 +110,7 @@ Proficient in both English and Urdu, I am currently expanding my linguistic capa
 -   ![Static Badge](https://img.shields.io/badge/LinkedIn-the--hot--man--bee-darkblue)
 - Email: hsekhanofficial@gmail.com
 -   ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
-- Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
+- Website: [Carrd](https://the-hot-man-beee.carrd.co/)
 - Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)
 -  ![Static Badge](https://img.shields.io/badge/Instagram-the__hot__man__bee%20-magenta)
 - Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09)
